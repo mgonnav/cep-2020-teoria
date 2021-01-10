@@ -60,8 +60,8 @@ int main()
     cout << '\n';
 
 
-    /*OPERADORES DE COMPARACIÓN: <, >, <=, >=, ==, !=*/
-    //cout << "Operadores de comparación: " << endl;
+    /*OPERADORES DE COMPARACIÃ“N: <, >, <=, >=, ==, !=*/
+    //cout << "Operadores de comparaciÃ³n: " << endl;
 
     int d;
     int e;
@@ -118,7 +118,7 @@ int main()
     cout << '\n';
 
 
-    /*OPERADORES LÓGICOS: &&, ||, !*/
+    /*OPERADORES LÃ“GICOS: &&, ||, !*/
     //cout << "Operadores logicos: " << endl;
 
     a = 10;
